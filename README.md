@@ -38,7 +38,7 @@
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)](https://github.com/DavideMarietti)
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/DavideMarietti)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/DavideMarietti)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/DavideMarietti)
+[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/DavideMarietti)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/DavideMarietti)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/DavideMarietti)
 
