@@ -21,7 +21,8 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/DavideMarietti)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/DavideMarietti)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/DavideMarietti)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/DavideMarietti)
+[![LaTex](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/DavideMarietti)
+[![SQL](https://img.shields.io/badge/LaTex-black?style=for-the-badge&logo=latex)](https://github.com/DavideMarietti)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://www.kaggle.com/davemarietti)
@@ -35,9 +36,13 @@
 ### Technologies & Frameworks
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)](https://github.com/DavideMarietti)
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/DavideMarietti)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/DavideMarietti)
+[![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=Node.JS)](https://github.com/DavideMarietti)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/DavideMarietti)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/DavideMarietti)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/DavideMarietti)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/DavideMarietti)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/DavideMarietti)
