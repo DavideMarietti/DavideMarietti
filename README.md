@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my page, I'm Davide 👋</h1>
+<h1 align="center">Welcome to my repository 👋</h1>
 
 <p align="center">
     <a href="mailto:davide.marietti@outlook.it">
