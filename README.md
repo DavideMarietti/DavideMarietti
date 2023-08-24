@@ -13,18 +13,19 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-rgb(33,38,45)?style=for-the-badge&logo=python)](https://github.com/DavideMarietti)
+[![Python](https://img.shields.io/badge/python-rgb(33,38,45)?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/DavideMarietti)
 [![JavaScript](https://img.shields.io/badge/javascript-rgb(33,38,45)?style=for-the-badge&logo=javascript)](https://github.com/DavideMarietti)
-[![Java](https://img.shields.io/badge/java-rgb(33,38,45)?style=for-the-badge&logo=openjdk)](https://github.com/DavideMarietti)
-[![C++](https://img.shields.io/badge/c++-rgb(33,38,45)?style=for-the-badge&logo=cplusplus)](https://github.com/DavideMarietti)
-[![C](https://img.shields.io/badge/c-rgb(33,38,45)?style=for-the-badge&logo=c)](https://github.com/DavideMarietti)
+![TypeScript](https://img.shields.io/badge/typescript-rgb(33,38,45).svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+[![Java](https://img.shields.io/badge/java-rgb(33,38,45)?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)](https://github.com/DavideMarietti)
+[![C++](https://img.shields.io/badge/c++-rgb(33,38,45)?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/DavideMarietti)
+[![C](https://img.shields.io/badge/c-rgb(33,38,45)?style=for-the-badge&logo=c&logoColor=%2300599C)](https://github.com/DavideMarietti)
 [![Bash](https://img.shields.io/badge/bash-rgb(33,38,45)?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/DavideMarietti)
 [![LaTex](https://img.shields.io/badge/sql-rgb(33,38,45)?style=for-the-badge&logo=mysql)](https://github.com/DavideMarietti)
-[![SQL](https://img.shields.io/badge/LaTex-rgb(33,38,45)?style=for-the-badge&logo=latex)](https://github.com/DavideMarietti)
+[![SQL](https://img.shields.io/badge/LaTex-rgb(33,38,45)?style=for-the-badge&logo=latex&logoColor=%23008080)](https://github.com/DavideMarietti)
 
 ### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-rgb(33,38,45)?style=for-the-badge&logo=pandas)](https://www.kaggle.com/davemarietti)
-[![NumPy](https://img.shields.io/badge/numpy-rgb(33,38,45)?style=for-the-badge&logo=numpy)](https://www.kaggle.com/davemarietti)
+[![Pandas](https://img.shields.io/badge/pandas-rgb(33,38,45)?style=for-the-badge&logo=pandas&logoColor=%23150458)](https://www.kaggle.com/davemarietti)
+[![NumPy](https://img.shields.io/badge/numpy-rgb(33,38,45)?style=for-the-badge&logo=numpy&logoColor=%23013243)](https://www.kaggle.com/davemarietti)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-rgb(33,38,45)?style=for-the-badge&logo=scikit-learn)](https://www.kaggle.com/davemarietti)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-rgb(33,38,45)?style=for-the-badge&logo=TensorFlow)](https://www.kaggle.com/davemarietti)
 [![SciPy](https://img.shields.io/badge/SciPy-rgb(33,38,45)?style=for-the-badge&logo=scipy)](https://www.kaggle.com/davemarietti)
@@ -35,16 +36,18 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-rgb(33,38,45)?style=for-the-badge&logo=mongodb)](https://github.com/DavideMarietti)
 [![NodeJS](https://img.shields.io/badge/NodeJS-rgb(33,38,45)?style=for-the-badge&logo=Node.JS)](https://github.com/DavideMarietti)
 [![Spring](https://img.shields.io/badge/Spring-rgb(33,38,45)?style=for-the-badge&logo=spring)](https://github.com/DavideMarietti)
-[![Angular](https://img.shields.io/badge/Angular-rgb(33,38,45)?style=for-the-badge&logo=angular)](https://github.com/DavideMarietti)
+[![Angular](https://img.shields.io/badge/Angular-rgb(33,38,45)?style=for-the-badge&logo=angular&logoColor=%23DD0031)](https://github.com/DavideMarietti)
+[![jQuery](https://img.shields.io/badge/jquery-rgb(33,38,45).svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)](https://github.com/DavideMarietti)
 [![HTML5](https://img.shields.io/badge/html5-rgb(33,38,45)?style=for-the-badge&logo=html5)](https://github.com/DavideMarietti)
-[![CSS](https://img.shields.io/badge/css3-rgb(33,38,45)?style=for-the-badge&logo=css3)](https://github.com/DavideMarietti)
+[![CSS](https://img.shields.io/badge/css3-rgb(33,38,45)?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/DavideMarietti)
 [![Docker](https://img.shields.io/badge/docker-rgb(33,38,45)?style=for-the-badge&logo=docker)](https://github.com/DavideMarietti)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-rgb(33,38,45)?style=for-the-badge&logo=kubernetes)](https://github.com/DavideMarietti)
-
+[![AWS](https://img.shields.io/badge/AWS-rgb(33,38,45).svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)](https://github.com/DavideMarietti)
+![Oracle](https://img.shields.io/badge/Oracle-rgb(33,38,45)?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-rgb(33,38,45)?style=for-the-badge&logo=Linux)](https://github.com/DavideMarietti)
-[![Windows](https://img.shields.io/badge/Windows-rgb(33,38,45)?style=for-the-badge&logo=Windows)](https://github.com/DavideMarietti)
+[![Windows](https://img.shields.io/badge/Windows-rgb(33,38,45)?style=for-the-badge&logo=Windows&logoColor=0078D6)](https://github.com/DavideMarietti)
 
 <details>
 <p align="center">
