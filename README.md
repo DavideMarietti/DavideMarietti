@@ -15,7 +15,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-rgb(33,38,45)?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/DavideMarietti)
 [![JavaScript](https://img.shields.io/badge/javascript-rgb(33,38,45)?style=for-the-badge&logo=javascript)](https://github.com/DavideMarietti)
-![TypeScript](https://img.shields.io/badge/typescript-rgb(33,38,45).svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+[![TypeScript](https://img.shields.io/badge/typescript-rgb(33,38,45).svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)](https://github.com/DavideMarietti)
 [![Java](https://img.shields.io/badge/java-rgb(33,38,45)?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)](https://github.com/DavideMarietti)
 [![C++](https://img.shields.io/badge/c++-rgb(33,38,45)?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/DavideMarietti)
 [![C](https://img.shields.io/badge/c-rgb(33,38,45)?style=for-the-badge&logo=c&logoColor=%2300599C)](https://github.com/DavideMarietti)
@@ -43,7 +43,7 @@
 [![Docker](https://img.shields.io/badge/docker-rgb(33,38,45)?style=for-the-badge&logo=docker)](https://github.com/DavideMarietti)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-rgb(33,38,45)?style=for-the-badge&logo=kubernetes)](https://github.com/DavideMarietti)
 [![AWS](https://img.shields.io/badge/AWS-rgb(33,38,45).svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)](https://github.com/DavideMarietti)
-![Oracle](https://img.shields.io/badge/Oracle-rgb(33,38,45)?style=for-the-badge&logo=oracle&logoColor=F80000)
+[![Oracle](https://img.shields.io/badge/Oracle-rgb(33,38,45)?style=for-the-badge&logo=oracle&logoColor=F80000)](https://github.com/DavideMarietti)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-rgb(33,38,45)?style=for-the-badge&logo=Linux)](https://github.com/DavideMarietti)
