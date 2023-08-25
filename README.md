@@ -40,6 +40,7 @@
 [![jQuery](https://img.shields.io/badge/jquery-rgb(33,38,45).svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)](https://github.com/DavideMarietti)
 [![HTML5](https://img.shields.io/badge/html5-rgb(33,38,45)?style=for-the-badge&logo=html5)](https://github.com/DavideMarietti)
 [![CSS](https://img.shields.io/badge/css3-rgb(33,38,45)?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/DavideMarietti)
+[![Git](https://img.shields.io/badge/git-rgb(33,38,45).svg?style=for-the-badge&logo=git&logoColor=%23F05033)](https://github.com/DavideMarietti)
 [![Docker](https://img.shields.io/badge/docker-rgb(33,38,45)?style=for-the-badge&logo=docker)](https://github.com/DavideMarietti)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-rgb(33,38,45)?style=for-the-badge&logo=kubernetes)](https://github.com/DavideMarietti)
 [![AWS](https://img.shields.io/badge/AWS-rgb(33,38,45).svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)](https://github.com/DavideMarietti)
