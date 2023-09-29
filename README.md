@@ -22,6 +22,7 @@
 [![Bash](https://img.shields.io/badge/bash-rgb(33,38,45)?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/DavideMarietti)
 [![LaTex](https://img.shields.io/badge/sql-rgb(33,38,45)?style=for-the-badge&logo=mysql)](https://github.com/DavideMarietti)
 [![SQL](https://img.shields.io/badge/LaTex-rgb(33,38,45)?style=for-the-badge&logo=latex&logoColor=%23008080)](https://github.com/DavideMarietti)
+[![PHP](https://img.shields.io/badge/php-rgb(33,38,45)?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://github.com/DavideMarietti)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-rgb(33,38,45)?style=for-the-badge&logo=pandas&logoColor=%23150458)](https://www.kaggle.com/davemarietti)
@@ -36,6 +37,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-rgb(33,38,45)?style=for-the-badge&logo=mongodb)](https://github.com/DavideMarietti)
 [![NodeJS](https://img.shields.io/badge/NodeJS-rgb(33,38,45)?style=for-the-badge&logo=Node.JS)](https://github.com/DavideMarietti)
 [![Spring](https://img.shields.io/badge/Spring-rgb(33,38,45)?style=for-the-badge&logo=spring)](https://github.com/DavideMarietti)
+[![React](https://img.shields.io/badge/react-rgb(33,38,45)?style=for-the-badge&logo=react&logoColor=%2320232)](https://github.com/DavideMarietti)
 [![Angular](https://img.shields.io/badge/Angular-rgb(33,38,45)?style=for-the-badge&logo=angular&logoColor=%23DD0031)](https://github.com/DavideMarietti)
 [![jQuery](https://img.shields.io/badge/jquery-rgb(33,38,45).svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)](https://github.com/DavideMarietti)
 [![HTML5](https://img.shields.io/badge/html5-rgb(33,38,45)?style=for-the-badge&logo=html5)](https://github.com/DavideMarietti)
