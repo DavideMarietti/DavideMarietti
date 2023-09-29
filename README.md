@@ -5,10 +5,10 @@
         <img src="https://img.shields.io/badge/Email-rgb(17, 29, 47, 0)?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://www.linkedin.com/in/davide-marietti-292793195">
-        <img src="https://img.shields.io/badge/LinkedIn-rgb(17, 29, 47, 0)?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-rgb(17, 29, 47, 0)?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/davemarietti">
-        <img src="https://img.shields.io/badge/Kaggle-rgb(17, 29, 47, 0)?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Kaggle-rgb(17, 29, 47, 0)?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
     </a>
 </p>
 
