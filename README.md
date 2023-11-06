@@ -24,7 +24,7 @@
 [![SQL](https://img.shields.io/badge/LaTex-rgb(33,38,45)?style=for-the-badge&logo=latex&logoColor=%23008080)](https://github.com/DavideMarietti)
 [![PHP](https://img.shields.io/badge/php-rgb(33,38,45)?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://github.com/DavideMarietti)
 
-### ML/DL
+### ML / DL
 [![Pandas](https://img.shields.io/badge/pandas-rgb(33,38,45)?style=for-the-badge&logo=pandas&logoColor=%23150458)](https://www.kaggle.com/davemarietti)
 [![NumPy](https://img.shields.io/badge/numpy-rgb(33,38,45)?style=for-the-badge&logo=numpy&logoColor=%23013243)](https://www.kaggle.com/davemarietti)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-rgb(33,38,45)?style=for-the-badge&logo=scikit-learn)](https://www.kaggle.com/davemarietti)
