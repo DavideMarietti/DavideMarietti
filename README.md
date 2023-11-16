@@ -19,10 +19,10 @@
 [![Java](https://img.shields.io/badge/java-rgb(33,38,45)?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)](https://github.com/DavideMarietti)
 [![C++](https://img.shields.io/badge/c++-rgb(33,38,45)?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)](https://github.com/DavideMarietti)
 [![C](https://img.shields.io/badge/c-rgb(33,38,45)?style=for-the-badge&logo=c&logoColor=%2300599C)](https://github.com/DavideMarietti)
+[![PHP](https://img.shields.io/badge/php-rgb(33,38,45)?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://github.com/DavideMarietti)
+[![SQL](https://img.shields.io/badge/LaTex-rgb(33,38,45)?style=for-the-badge&logo=latex&logoColor=%23008080)](https://github.com/DavideMarietti)
 [![Bash](https://img.shields.io/badge/bash-rgb(33,38,45)?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/DavideMarietti)
 [![LaTex](https://img.shields.io/badge/sql-rgb(33,38,45)?style=for-the-badge&logo=mysql)](https://github.com/DavideMarietti)
-[![SQL](https://img.shields.io/badge/LaTex-rgb(33,38,45)?style=for-the-badge&logo=latex&logoColor=%23008080)](https://github.com/DavideMarietti)
-[![PHP](https://img.shields.io/badge/php-rgb(33,38,45)?style=for-the-badge&logo=php&logoColor=%23777BB4)](https://github.com/DavideMarietti)
 
 ### ML / DL
 [![Pandas](https://img.shields.io/badge/pandas-rgb(33,38,45)?style=for-the-badge&logo=pandas&logoColor=%23150458)](https://www.kaggle.com/davemarietti)
