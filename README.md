@@ -4,7 +4,7 @@
     <a href="mailto:davide.marietti@outlook.it">
         <img src="https://img.shields.io/badge/Email-rgb(17, 29, 47, 0)?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://www.linkedin.com/in/davide-marietti-292793195">
+    <a href="https://www.linkedin.com/in/davidemarietti">
         <img src="https://img.shields.io/badge/LinkedIn-rgb(17, 29, 47, 0)?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/davemarietti">
