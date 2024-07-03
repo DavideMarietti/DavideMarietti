@@ -26,7 +26,9 @@
 
 ### Tech & Frameworks
 [![MongoDB](https://img.shields.io/badge/MongoDB-rgb(33,38,45)?style=for-the-badge&logo=mongodb)](https://github.com/DavideMarietti)
+[![Postgres](https://img.shields.io/badge/Postgresql-rgb(33,38,45)?style=for-the-badge&logo=postgresql&logoColor=%2320232)](https://github.com/DavideMarietti)
 [![NodeJS](https://img.shields.io/badge/NodeJS-rgb(33,38,45)?style=for-the-badge&logo=Node.JS)](https://github.com/DavideMarietti)
+[![NestJS](https://img.shields.io/badge/NestJS-rgb(33,38,45)?style=for-the-badge&logo=NestJS&logoColor=F80000)](https://github.com/DavideMarietti)
 [![Spring](https://img.shields.io/badge/Spring-rgb(33,38,45)?style=for-the-badge&logo=spring)](https://github.com/DavideMarietti)
 [![React](https://img.shields.io/badge/react-rgb(33,38,45)?style=for-the-badge&logo=react&logoColor=%2320232)](https://github.com/DavideMarietti)
 [![Angular](https://img.shields.io/badge/Angular-rgb(33,38,45)?style=for-the-badge&logo=angular&logoColor=%23DD0031)](https://github.com/DavideMarietti)
@@ -34,6 +36,7 @@
 [![HTML](https://img.shields.io/badge/html5-rgb(33,38,45)?style=for-the-badge&logo=html5)](https://github.com/DavideMarietti)
 [![CSS](https://img.shields.io/badge/css3-rgb(33,38,45)?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/DavideMarietti)
 [![Git](https://img.shields.io/badge/git-rgb(33,38,45).svg?style=for-the-badge&logo=git&logoColor=%23F05033)](https://github.com/DavideMarietti)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-rgb(33,38,45)?style=for-the-badge&logo=githubactions&logoColor=%231572B6)](https://github.com/DavideMarietti)
 [![Docker](https://img.shields.io/badge/docker-rgb(33,38,45)?style=for-the-badge&logo=docker)](https://github.com/DavideMarietti)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-rgb(33,38,45)?style=for-the-badge&logo=kubernetes)](https://github.com/DavideMarietti)
 [![AWS](https://img.shields.io/badge/AWS-rgb(33,38,45).svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)](https://github.com/DavideMarietti)
